@@ -1,0 +1,2 @@
+# dotnetcoreazuresqlserver
+tutorial
